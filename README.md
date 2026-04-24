@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Sarthak 👋
 
-<!--
-**sarthak3199/sarthak3199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MBA Graduate | Data Analyst  
+📊 Skilled in SQL, Python, Excel, Power BI  
+📍 India  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python (Pandas, NumPy)
+- SQL
+- Power BI / Tableau
+- Excel (Advanced)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Projects
+- Sales Data Analysis
+- Customer Segmentation
+- Financial Dashboard
+
+## 📫 Contact Me
+- LinkedIn: https://linkedin.com/in/yourprofile
+- Email: s.choudhary6120@gmail.com
